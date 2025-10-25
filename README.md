@@ -3,7 +3,7 @@
 ### MSc Cyber Security Dissertation – University of York (2025)  
 **Author:** Keshav Joshi  
 **Supervisor:** Dr. Angus Marshall  
-**Project Type:** Digital Forensics Research and Tool Development  
+**Project Type:** Digital Forensics Research and Tool Development   
 
 ---
 
