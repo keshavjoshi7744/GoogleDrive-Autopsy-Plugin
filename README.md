@@ -69,7 +69,7 @@ While overall results were strong, feedback highlighted that **some sections of 
 - Automated parsing of DriveFS artifacts (SQLite, JSON, Logs)  
 - Timeline generation for user activity  
 - Evidence correlation and integrity checks  
-- Integration into Autopsy’s blackboard for visualization  
+- Integration into Autopsy’s blackboard for visualisation  
 - Modular Python (Jython) design for easy updates  
 
 ---
@@ -81,5 +81,39 @@ While overall results were strong, feedback highlighted that **some sections of 
 - Extend the plugin to support additional DriveFS versions and cloud API integration  
 
 ---
+
+---
+
+## ⚖️ License
+
+This project is distributed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 🧾 Citation
+
+If referencing this work, please cite as:
+
+> Joshi, K. (2025). *Google Drive Sync Artifact Parser for Autopsy*. MSc Dissertation, University of York.
+
+---
+
+## 📬 Contact
+
+**Keshav Joshi**  
+📧 [keshav.infinity8@gmail.com](mailto:keshav.infinity8@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/keshavjoshi28)  
+💻 [GitHub](https://github.com/keshavjoshi7744)
+
+---
+
+## 🟢 Summary
+
+This project demonstrates end-to-end development of a forensic analysis tool, from manual artifact study to full Autopsy integration.  
+It highlights skills in **Python automation, digital forensics, cloud artifact analysis, and secure software development**, with practical results that align closely with real-world investigations.
+
+While there’s room for refinement in reporting and visualisation, the project showcases strong technical execution and a clear understanding of both **research and applied cybersecurity** — the qualities I bring to every professional role.
+
 
 
