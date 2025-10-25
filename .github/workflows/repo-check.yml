@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: ✅ Check out repository
+      - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: 🔍 Verify README and LICENSE files
+      - name: Verify README and LICENSE files
         run: |
           if [ ! -f "README.md" ]; then
             echo "❌ README.md missing!"
@@ -30,11 +30,11 @@ jobs:
             echo "✅ LICENSE file found."
           fi
 
-      - name: 🐍 Check Python Syntax
+      - name: Check Python syntax
         run: |
-          echo "🔍 Checking Python syntax for plugin files..."
-          find . -name "*.py" -exec python3 -m py_compile {} \;
+          echo "🔍 Checking Python syntax..."
+          python3 -m compileall -q .
           echo "✅ Python syntax OK."
 
-      - name: 🧾 Display completion message
+      - name: Finished
         run: echo "🎉 Repository validation completed successfully."
