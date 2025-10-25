@@ -50,7 +50,7 @@ Results showed:
 - **Accurate reconstruction of file and user activity timelines**  
 - **Integrity verification through hashing**  
 
-While overall results were strong, feedback highlighted that **some sections of analysis could be structured more systematically**, and **screenshots and figures** could be clearer or better attributed — improvements planned for a future release.
+While overall results were strong, feedback highlighted that **some sections of analysis could be structured more systematically**, and **screenshots and figures** could be clearer or better attributed, improvements planned for a future release.
 
 ---
 
@@ -111,9 +111,9 @@ If referencing this work, please cite as:
 ## 🟢 Summary
 
 This project demonstrates end-to-end development of a forensic analysis tool, from manual artifact study to full Autopsy integration.  
-It highlights skills in **Python automation, digital forensics, cloud artifact analysis, and secure software development**, with practical results that align closely with real-world investigations.
+It highlights skills in **Python automation, digital forensics, cloud artifact analysis and secure software development**, with practical results that align closely with real-world investigations.
 
-While there’s room for refinement in reporting and visualisation, the project showcases strong technical execution and a clear understanding of both **research and applied cybersecurity** — the qualities I bring to every professional role.
+While there’s room for refinement in reporting and visualisation, the project showcases strong technical execution and a clear understanding of both **research and applied cybersecurity** ,the qualities I bring to every professional role.
 
 
 
