@@ -25,7 +25,7 @@ The tool integrates with Autopsy to automatically extract, analyse, and correlat
 ## 💡 Motivation
 
 As more evidence now resides in cloud storage platforms, understanding local DriveFS artifacts has become essential for digital forensics.  
-The project aimed to **bridge a gap in existing open-source tools** by automating DriveFS analysis — reducing manual effort and improving consistency across investigations.
+The project aimed to **bridge a gap in existing open-source tools** by automating DriveFS analysis, reducing manual effort and improving consistency across investigations.
 
 ---
 
